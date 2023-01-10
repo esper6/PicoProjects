@@ -4,7 +4,7 @@
 
 From the previous lab on resistors, you should understand how resistors play a valuable role in electronics by limiting or resisting the flow of electricity which we could see in our LED dimming.  The resistors we used to this point provided a fixed amount of resistence, therefore, each resistor has had a specific Ohms rating.  However, now in this lab we will work with a type of variable resistor... the Photoresistor
 
-## Photresistor
+## Photoresistor
 
 A Photoresistor(pictured below) is a type of variable resistor that provides some level of resistance that varies as the amount of light shining on it varies.  That is as more light shines on the photoresistor, the less resistence it provides.  So, in a dark environment the photoresistor will provide more resistence than when light is shining on it.
 
