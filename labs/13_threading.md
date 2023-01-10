@@ -217,7 +217,7 @@ while True:
 
 ```
 
-Notice now the `scan()` function uses the global variable called `servo_speed` to set it's `stepping` variable which controls how fast the servo rotates back.
+Notice now the `scan()` function uses the global variable called `servo_speed` to set its `stepping` variable which controls how fast the servo rotates back.
 
 Run the code above and you should see the servo increase in movement speed every 5 seconds.  
 
