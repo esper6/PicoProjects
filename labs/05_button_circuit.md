@@ -11,7 +11,7 @@ A button or switch is simply a way to close a circuit (allow electricity to flow
 ##### Open Circuit Image
 ![Switch Circuit Off](/images/switch_circuit.png)
 
-In the circuit above, you see the switch is just a metal bar that in it's current state would not allow the electrcity to flow.  The blue wire from the battery pack connects to one side of the metal switch, but while it's up, the current cannot flow to the blue wire on the other side. But if the bar was pushed down(as in the picture below) it would connect the two blue wires which would close or complete the circuit and allow electricity to flow and the light would light up.
+In the circuit above, you see the switch is just a metal bar that in its current state would not allow the electrcity to flow.  The blue wire from the battery pack connects to one side of the metal switch, but while it's up, the current cannot flow to the blue wire on the other side. But if the bar was pushed down(as in the picture below) it would connect the two blue wires which would close or complete the circuit and allow electricity to flow and the light would light up.
 ##### Closed Circuit Image
 ![Switch Circuit On](/images/switch_circuit_on.png)
 
