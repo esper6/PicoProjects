@@ -16,7 +16,7 @@ Here's a picture of what we are talking about.
 
 By simply adding power to them they make a sound.  You can take your buzzer and plug it directly into your power rail to hear it buzz.  They have a positve leg and a negative leg.  Just like an LED, the longer leg is the positive side and the negative side is the shorter leg. The buzzers in your kit are 3volt buzzers, so plug it into the top (3.3V) power rail, plugging the longer leg into the positive and the shorter leg to the negative.
 
-Once it gets power, you should hear it's annoying buzz.
+Once it gets power, you should hear its annoying buzz.
 
  ## What to do
 
@@ -24,7 +24,7 @@ In this lab, we are going to learn how to make the buzzer buzz at different freq
 
 In the last lab, we used PWM to fade an LED by updating the duty cycle after setting a fixed frequency.  With the buzzer, we will use the duty cycle to control the volume of the buzzer and use the frequency to control the pitch.
 
-For wiring this one, we will remove the button from the last lab along with it's wires and then replace the LED with the buzzer.  You can plug the long leg (+) of the buzzer into Column 30 and the short leg(-) into Column 33.  Keep the wire going connecting the positive side of the buzzer at Column 30 to the Pico at column 20 (GP16).  Next run a wire from the short pin of the buzzer(-) to ground.  
+For wiring this one, we will remove the button from the last lab along with its wires and then replace the LED with the buzzer.  You can plug the long leg (+) of the buzzer into Column 30 and the short leg(-) into Column 33.  Keep the wire going connecting the positive side of the buzzer at Column 30 to the Pico at column 20 (GP16).  Next run a wire from the short pin of the buzzer(-) to ground.  
 
 ![Buzzer Wiring Diagram](/images/11b_buzzer_bb.png)
 
