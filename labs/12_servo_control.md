@@ -28,9 +28,9 @@ Technically, for most servos, the pulse width (time the power is on in a pulse) 
   
  ## What to do
 
-Upto this point everything we've been using is running of the Pico's 3.3Volt output.  For this lab, we will use the Pico's 5Volt output.
+Up to this point everything we've been using is running of the Pico's 3.3Volt output.  For this lab, we will use the Pico's 5Volt output.
 
-Clear the board of LED's and buttons and extra wires.  You can leave the power rail wires that connect to the top power rail.  We won't use the top power rail, but it doesn't hurt to leave them connected.
+Clear the board of LEDs and buttons and extra wires.  You can leave the power rail wires that connect to the top power rail.  We won't use the top power rail, but it doesn't hurt to leave them connected.
 
 With the board clear, grab a red wire and connect it from the Pico  5 Volt power (VBUS) to the bottom positive rail.  The Pico's **VBUS** is a 5 volt out and it's connected to the top column 1.  So, connect your red wire to column 1 row j and then to the bottom positve rail as seen in the diagram below.
 
